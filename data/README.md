@@ -2,9 +2,9 @@
 
 ### Data Dictionary
 
-| Field | Description  
-| ----- | :----------:  
-| CRN |  Crash Record Number |  Key
+| Field | Description  | Key
+| ----- | ----------  | ---
+| CRN |  Crash Record Number |
 | POLICE_AGC |  Code of the reporting Police Agency | 67301 - Philadelphia City, 67501 - Delaware River Port Authority, 67503 - Philadelphia Naval Base, 67504 - University Of Pennsylvania, 67505 - Temple University,  67601 - Philadelphia County Sheriffs Dept, 68000 - Pa State Police, 68K01 - Philadelphia State Police
 | CRASH_YEAR |  Year when the crash occurred |
 | CRASH_MONT |  Month when the crash occurred |
